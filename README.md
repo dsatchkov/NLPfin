@@ -26,6 +26,6 @@ What is notable is that most similar concepts to Tesla include:
  'Xpeng': (0.5313283801078796, '')
  
  It contains companies such as Nio and Nikola, with very little price history. It also contains another competitor to Tesla called Xpeng, which is not traded at all at this point. Yet, we can estimate correaltions between those assets using our model.
-Beyond finding correlations, what are possible uses for NLP methods in finance.
+Beyond finding correlations, here are possible uses for NLP methods in finance.
 - Sentiment analysis
 - Simulating neural networks to come up with very rich datasets that will allow us to estimate much richer models i.e. power law copulas
