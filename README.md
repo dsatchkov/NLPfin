@@ -1,5 +1,5 @@
-# NLPfin
-using NLP tools to model financial assets
+# NLPfin -using NLP tools to model financial assets
+
 The goal of this project is to use NLP tools to analyze vast amounts of textual data to infer financial asset properties. Financial pricing and return data is very limiting. It is especially limiting when estimating relationships between assets. In order to estimate the most straightforward correlation matrix between N assets, we need N*(N-1)/2 parameters. For large N, this model becomes extremely weak and matrix properties are not desirable. This is because financial pricing data has limited history, anywhere between a few years to a few decades at the very most.
 NLP analysis allows us to use the vast amounts of textual data to infer facts about financial assets. It can overcome lack of financial data. And such analysis is absolutely crucial when dealing with assets with short history or no history at all (private assets).
 There are two Jupyter notebooks and two files:
